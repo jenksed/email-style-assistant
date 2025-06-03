@@ -1,0 +1,6 @@
+streamlit
+pytest
+requests
+scikit-learn
+nltk
+textstat

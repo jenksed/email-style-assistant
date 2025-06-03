@@ -1,0 +1,351 @@
+===EMAIL===
+Subject: Quick follow-up on deck edits
+Body:
+Hey Nina,
+
+Appreciate you sending over the updated slides. I went through them this morning and added a few comments—mainly around clarity in the metrics section. Let me know what you think.
+
+Happy to hop on a quick call if that’s easier.
+
+Best,
+Josh
+
+Tags: follow-up, casual, internal
+
+===EMAIL===
+Subject: Heads-up: Billing update from Platform X
+Body:
+Hi Ahmed,
+
+Just a quick note—Platform X is rolling out a change to how they bill for data pulls starting next quarter. Previously, anything under 10K rows was included; that’s no longer the case.
+
+We’re not over the threshold yet, but worth flagging in case usage scales up. Let me know if you want to loop in finance for projections.
+
+Best,
+Josh
+
+Tags: product, billing, proactive
+
+===EMAIL===
+Subject: Re: New onboarding checklist
+Body:
+Hey Lillian,
+
+Really liked the new onboarding doc—especially the way you broke out the platform nuances. One suggestion: maybe we flag the data sync caveats right up front (that came up with Nina’s team last week).
+
+If helpful, I can drop in a few notes from our last two onboarding sessions. Just let me know.
+
+Thanks again for pulling this together.
+
+Josh
+
+Tags: internal, helpful, async
+
+===EMAIL===
+Subject: Update on item #4
+Body:
+Hey Team,
+
+Just a quick update on item #4. I've made the relevant changes and synced with the folks on the ops side. If you get a chance, take a look and let me know if anything stands out.
+
+Appreciate the momentum on this one.
+
+Best,
+Josh
+
+Tags: internal, progress, casual
+
+===EMAIL===
+Subject: Update on item #5
+Body:
+Hey Team,
+
+Just a quick update on item #5. I've made the relevant changes and synced with the folks on the ops side. If you get a chance, take a look and let me know if anything stands out.
+
+Appreciate the momentum on this one.
+
+Best,
+Josh
+
+Tags: internal, progress, casual
+
+===EMAIL===
+Subject: Update on item #6
+Body:
+Hey Team,
+
+Just a quick update on item #6. I've made the relevant changes and synced with the folks on the ops side. If you get a chance, take a look and let me know if anything stands out.
+
+Appreciate the momentum on this one.
+
+Best,
+Josh
+
+Tags: internal, progress, casual
+
+===EMAIL===
+Subject: Update on item #7
+Body:
+Hey Team,
+
+Just a quick update on item #7. I've made the relevant changes and synced with the folks on the ops side. If you get a chance, take a look and let me know if anything stands out.
+
+Appreciate the momentum on this one.
+
+Best,
+Josh
+
+Tags: internal, progress, casual
+
+===EMAIL===
+Subject: Update on item #8
+Body:
+Hey Team,
+
+Just a quick update on item #8. I've made the relevant changes and synced with the folks on the ops side. If you get a chance, take a look and let me know if anything stands out.
+
+Appreciate the momentum on this one.
+
+Best,
+Josh
+
+Tags: internal, progress, casual
+
+===EMAIL===
+Subject: Update on item #9
+Body:
+Hey Team,
+
+Just a quick update on item #9. I've made the relevant changes and synced with the folks on the ops side. If you get a chance, take a look and let me know if anything stands out.
+
+Appreciate the momentum on this one.
+
+Best,
+Josh
+
+Tags: internal, progress, casual
+
+===EMAIL===
+Subject: Update on item #10
+Body:
+Hey Team,
+
+Just a quick update on item #10. I've made the relevant changes and synced with the folks on the ops side. If you get a chance, take a look and let me know if anything stands out.
+
+Appreciate the momentum on this one.
+
+Best,
+Josh
+
+Tags: internal, progress, casual
+
+===EMAIL===
+Subject: Update on item #11
+Body:
+Hey Team,
+
+Just a quick update on item #11. I've made the relevant changes and synced with the folks on the ops side. If you get a chance, take a look and let me know if anything stands out.
+
+Appreciate the momentum on this one.
+
+Best,
+Josh
+
+Tags: internal, progress, casual
+
+===EMAIL===
+Subject: Update on item #12
+Body:
+Hey Team,
+
+Just a quick update on item #12. I've made the relevant changes and synced with the folks on the ops side. If you get a chance, take a look and let me know if anything stands out.
+
+Appreciate the momentum on this one.
+
+Best,
+Josh
+
+Tags: internal, progress, casual
+
+===EMAIL===
+Subject: Update on item #13
+Body:
+Hey Team,
+
+Just a quick update on item #13. I've made the relevant changes and synced with the folks on the ops side. If you get a chance, take a look and let me know if anything stands out.
+
+Appreciate the momentum on this one.
+
+Best,
+Josh
+
+Tags: internal, progress, casual
+
+===EMAIL===
+Subject: Update on item #14
+Body:
+Hey Team,
+
+Just a quick update on item #14. I've made the relevant changes and synced with the folks on the ops side. If you get a chance, take a look and let me know if anything stands out.
+
+Appreciate the momentum on this one.
+
+Best,
+Josh
+
+Tags: internal, progress, casual
+
+===EMAIL===
+Subject: Update on item #15
+Body:
+Hey Team,
+
+Just a quick update on item #15. I've made the relevant changes and synced with the folks on the ops side. If you get a chance, take a look and let me know if anything stands out.
+
+Appreciate the momentum on this one.
+
+Best,
+Josh
+
+Tags: internal, progress, casual
+
+===EMAIL===
+Subject: Update on item #16
+Body:
+Hey Team,
+
+Just a quick update on item #16. I've made the relevant changes and synced with the folks on the ops side. If you get a chance, take a look and let me know if anything stands out.
+
+Appreciate the momentum on this one.
+
+Best,
+Josh
+
+Tags: internal, progress, casual
+
+===EMAIL===
+Subject: Update on item #17
+Body:
+Hey Team,
+
+Just a quick update on item #17. I've made the relevant changes and synced with the folks on the ops side. If you get a chance, take a look and let me know if anything stands out.
+
+Appreciate the momentum on this one.
+
+Best,
+Josh
+
+Tags: internal, progress, casual
+
+===EMAIL===
+Subject: Update on item #18
+Body:
+Hey Team,
+
+Just a quick update on item #18. I've made the relevant changes and synced with the folks on the ops side. If you get a chance, take a look and let me know if anything stands out.
+
+Appreciate the momentum on this one.
+
+Best,
+Josh
+
+Tags: internal, progress, casual
+
+===EMAIL===
+Subject: Update on item #19
+Body:
+Hey Team,
+
+Just a quick update on item #19. I've made the relevant changes and synced with the folks on the ops side. If you get a chance, take a look and let me know if anything stands out.
+
+Appreciate the momentum on this one.
+
+Best,
+Josh
+
+Tags: internal, progress, casual
+
+===EMAIL===
+Subject: Update on item #20
+Body:
+Hey Team,
+
+Just a quick update on item #20. I've made the relevant changes and synced with the folks on the ops side. If you get a chance, take a look and let me know if anything stands out.
+
+Appreciate the momentum on this one.
+
+Best,
+Josh
+
+Tags: internal, progress, casual
+
+===EMAIL===
+Subject: Update on item #21
+Body:
+Hey Team,
+
+Just a quick update on item #21. I've made the relevant changes and synced with the folks on the ops side. If you get a chance, take a look and let me know if anything stands out.
+
+Appreciate the momentum on this one.
+
+Best,
+Josh
+
+Tags: internal, progress, casual
+
+===EMAIL===
+Subject: Update on item #22
+Body:
+Hey Team,
+
+Just a quick update on item #22. I've made the relevant changes and synced with the folks on the ops side. If you get a chance, take a look and let me know if anything stands out.
+
+Appreciate the momentum on this one.
+
+Best,
+Josh
+
+Tags: internal, progress, casual
+
+===EMAIL===
+Subject: Update on item #23
+Body:
+Hey Team,
+
+Just a quick update on item #23. I've made the relevant changes and synced with the folks on the ops side. If you get a chance, take a look and let me know if anything stands out.
+
+Appreciate the momentum on this one.
+
+Best,
+Josh
+
+Tags: internal, progress, casual
+
+===EMAIL===
+Subject: Update on item #24
+Body:
+Hey Team,
+
+Just a quick update on item #24. I've made the relevant changes and synced with the folks on the ops side. If you get a chance, take a look and let me know if anything stands out.
+
+Appreciate the momentum on this one.
+
+Best,
+Josh
+
+Tags: internal, progress, casual
+
+===EMAIL===
+Subject: Update on item #25
+Body:
+Hey Team,
+
+Just a quick update on item #25. I've made the relevant changes and synced with the folks on the ops side. If you get a chance, take a look and let me know if anything stands out.
+
+Appreciate the momentum on this one.
+
+Best,
+Josh
+
+Tags: internal, progress, casual
+
