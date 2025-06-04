@@ -1,6 +1,6 @@
 # email_loader.py
 
-def load_user_emails(file_path='user_emails.txt'):
+def load_user_emails(file_path='examples/user_emails.txt'):
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
